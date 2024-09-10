@@ -8,7 +8,7 @@
 
 🤝 Looking forward to connecting with like-minded individuals and exploring new opportunities in the world of technology and others.
 
-![Kianzahrai's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Kianzahrai's Stats](https://github-readme-stats.vercel.app/api?username=Kianzahrai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 

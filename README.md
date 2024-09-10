@@ -5,44 +5,53 @@
 🕹️ I seek to contribute my technical expertise to ingenious projects and make long-lasting impacts. With a strong foundation in various programming languages and a diverse skill set in software development, I aspire to join a forward-thinking team where I can leverage my experience and knowledge to create cutting-edge solutions in the software development landscape.
 
 ⚽ Beyond the code, you may find me conversing in other topics that excite me just as much as my profession. However, none of them even amount to my devotion to soccer. The beautiful game has given me more than just fun and play, it has also gifted me with the joy to keep going, whatever it takes.
- 
+
 🤝 Looking forward to connecting with like-minded individuals and exploring new opportunities in the world of technology and others.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Kianzahrai's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at the University of Ottawa.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 📝 I'm currently pursuing my Master's in Computer Science at the University of Ottawa.
+- 🐍 My technical capabilities primarily lie in Python, which has been the backbone of many of my projects.
+- 🌐 I have contributed to the creation of standalone, production-grade applications, complemented with different frameworks for building scalable web applications.
+- ✍️ Gearing up to attend conferences and hackathons.
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Tech Stack
+
+### Programming
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,ts,c,cpp,r,postgres,go,matlab&perline=6)](https://skillicons.dev)
+
+### Frameworks/Libraries
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,nginx,django,spring,vite,vitest,fastapi,firebase,flask,tensorflow,mongodb&perline=6)](https://skillicons.dev)
+
+### DevOps
+[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,azure,gitlab,maven,)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vim,bash,notion,obsidian,postman,latex,figma,vscode,sublime,anaconda,eclipse&perline=6)](https://skillicons.dev)
+
 
 ## 🔭 Currently Exploring
 
 - 🤖 Artificial Intelligence
-  - Understanding popular topics such as machine learning (ML), Natural Language PRocessing (NLP) and Information Retrieval (IR).
-  - Playing around with frameworks and tools including TensorFlow, PyTorch, and Scikit-Learn.
-  - 
+  - Understanding popular topics: Machine Learning (ML), Natural Language Processing (NLP) and Information Retrieval (IR).
+  - Playing around with frameworks and tools: TensorFlow, PyTorch, and Scikit-Learn.
+  - Curating search algorithms: Heuristic, Optimization, Adverserial
+  - Diving into Knowledge Representation & Reasoning, Large Language Models (LLMs)
 
-- 🛡️ Cyber Security
-  - Delving into program and system security + software exploitation
-  - Capture The Flag (CTF)
-  - 
-
-- 📚 Learning Full Stack Web Development
+- 📚 Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
+- 🛡️ Cyber Security (Next Adventure)
+  - Delving into Program and System Security + Software Exploitation
+  - Understaning threats and different types
+  - Preparation for Capture The Flag (CTF) events
 
 ## 🏆 Achievements
 
@@ -52,7 +61,7 @@
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kianzahrai/)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Send me an e-mail to [kianzahrai@gmail.com](mailto:kianzahrai@gmail.com)
 
 
 

@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 📝 I'm currently pursuing my Master's in Computer Science at the University of Ottawa.
+- 📝 I'm currently pursuing my Master's in Computer Science, with concentration in Applied Artificial Intelligence, at the University of Ottawa.
 - 🐍 My technical capabilities primarily lie in Python, which has been the backbone of many of my projects.
 - 🌐 I have contributed to the creation of standalone, production-grade applications, complemented with different frameworks for building scalable web applications.
 - ✍️ Gearing up to attend conferences and hackathons.
@@ -60,7 +60,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kianzahrai/)
+- Connect with me on [GitHub](https://github.com/Kianzahrai)
 - Send me an e-mail to [kianzahrai@gmail.com](mailto:kianzahrai@gmail.com)
 
 <!--
